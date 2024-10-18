@@ -36,6 +36,7 @@ struct song{
 	char title[MAX_SIZE_TITLE];// Titre du morceau
 	struct tick tickTab[MAX_NUMBER_TICKS];// Tableau de ticks
 }s_song;
+
 #endif
 
 
